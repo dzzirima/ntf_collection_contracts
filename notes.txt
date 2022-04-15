@@ -1,1 +1,2 @@
-crypto devs contract = 0x8a9c02EAd3E889C94412De2B86695C2dF0cc0fe9
+crypto devs contract = 0x123E11bA213bf7f35db588DdCC20Ce9081fB32Fb
+domain=https://nft-frontend.vercel.app/
